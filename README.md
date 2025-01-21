@@ -1,1 +1,1 @@
-Here you can find some works of Encapsulation, Static variable and Static Method. I have not mentioned the task questions, as well as parent and drive codes. But if you are dealing with inheritance in java or any other language, you can get some Idea.
+ 
